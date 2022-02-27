@@ -1,0 +1,18 @@
+{
+    "name": "user/crudoop",
+    "description": "this is a project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "peal"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "APP\\":"app/"
+        }
+    }
+}
